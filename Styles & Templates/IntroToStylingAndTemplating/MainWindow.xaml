@@ -87,7 +87,7 @@
                         <BeginStoryboard>
                             <Storyboard>
                                 <DoubleAnimation
-                  Duration="0:0:1"
+                  Duration="0:0:0.2"
                   Storyboard.TargetProperty="MaxHeight"  />
                             </Storyboard>
                         </BeginStoryboard>
